@@ -1,0 +1,22 @@
+{
+  "name": "pseudo-trello-team-tortoise",
+  "version": "1.0.0",
+  "description": "Beginner's guide to making a task list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamTortoise/Pseudo_Trello-.git"
+  },
+  "author": "Jason Jennifer and Ty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamTortoise/Pseudo_Trello-/issues"
+  },
+  "homepage": "https://github.com/TeamTortoise/Pseudo_Trello-#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
